@@ -16,7 +16,7 @@
 
 .image {
     object-fit: contain;
-    width: 5% !important;
+    width: 12% !important;
     position: relative !important;
     height: unset !important;
 }
